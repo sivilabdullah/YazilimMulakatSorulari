@@ -196,7 +196,7 @@ public record Person
 
 ### Outbox Design Pattern nedir, ne için kullanılır?
 
-- Hazırlanıyor...
+- Coming soon...
 
 ### What is an Aggregate Root?
 
